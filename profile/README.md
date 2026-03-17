@@ -1,4 +1,4 @@
-# OpenNAX (NAX Entertainment)
+# OpenNAX
 
 ## Open Source solutions by NAX Entertainment
 
